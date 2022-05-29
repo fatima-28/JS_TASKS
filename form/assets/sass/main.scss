@@ -1,0 +1,29 @@
+.main{
+    width: 500px;
+    height:500px;
+    background-color:rgb(254, 235, 238);
+    box-sizing: border-box;
+    padding: 50px;
+    border: 1px solid black;
+    color: white;
+}
+button{
+    width: 200px;height:50px
+}
+
+   input{
+       font-size:30px;
+       margin-bottom:20px;
+       padding:10px;
+       box-sizing: border-box;
+   }
+   label{
+       font-size:20px
+   }
+
+   .pop-up{
+       display:none;
+   }
+   .finally{
+       display:none;
+   }
